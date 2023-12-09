@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Etiquetas on Entretanto</title>
+    <link>https://entretanto.github.io/etiquetas/</link>
+    <description>Recent content in Etiquetas on Entretanto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-PT</language>
+    <lastBuildDate>Tue, 17 Oct 2023 10:10:59 +0000</lastBuildDate><atom:link href="https://entretanto.github.io/etiquetas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>saudação</title>
+      <link>https://entretanto.github.io/tags/sauda%C3%A7%C3%A3o/</link>
+      <pubDate>Tue, 17 Oct 2023 10:10:59 +0000</pubDate>
+      
+      <guid>https://entretanto.github.io/tags/sauda%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tudo</title>
+      <link>https://entretanto.github.io/tags/tudo/</link>
+      <pubDate>Tue, 17 Oct 2023 10:10:59 +0000</pubDate>
+      
+      <guid>https://entretanto.github.io/tags/tudo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
